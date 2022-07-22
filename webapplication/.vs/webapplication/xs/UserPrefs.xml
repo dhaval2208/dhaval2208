@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{4AF3B4C8-5B10-4BCF-A2C1-28B6D71C93D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.webapplication PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.webapplication PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="webapplication/Program.cs">
     <Files>
       <File FileName="webapplication/Program.cs" Line="27" Column="1" />
@@ -16,7 +15,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="webapplication" expanded="True" selected="True">
+          <Node name="webapplication" expanded="True">
             <Node name="webapplication" expanded="True">
               <Node name="Pages" expanded="True" />
               <Node name="Properties" expanded="True" />
@@ -42,6 +41,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
