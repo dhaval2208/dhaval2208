@@ -1,22 +1,38 @@
 ﻿<Properties StartupConfiguration="{4AF3B4C8-5B10-4BCF-A2C1-28B6D71C93D6}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.webapplication PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="webapplication/Program.cs">
     <Files>
-      <File FileName="webapplication/Program.cs" Line="3" Column="25" />
+      <File FileName="webapplication/Program.cs" Line="27" Column="1" />
+      <File FileName="webapplication/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="webapplication/wwwroot/css/site.css" Line="72" Column="2" />
+      <File FileName="webapplication/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="webapplication/Pages/Error.cshtml" Line="23" Column="44" />
+      <File FileName="webapplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" />
+      <File FileName="webapplication/wwwroot/lib/jquery/LICENSE.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="webapplication" expanded="True">
+          <Node name="webapplication" expanded="True" selected="True">
             <Node name="webapplication" expanded="True">
-              <Node name="wwwroot" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True" />
+                      <Node name="js" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="jquery" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
@@ -26,4 +42,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
